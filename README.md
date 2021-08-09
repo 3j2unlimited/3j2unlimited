@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3j2unlimited
-- 👀 I’m interested in phyton
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anyone who is willing to teach and grow together
 - 📫 How to reach me here or whatsapp 08063515433
 
